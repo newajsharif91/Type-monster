@@ -16,6 +16,24 @@ body {
   margin: 0 auto;
 }
 
+
+element.style {
+}
+.buttonss>a{
+  text-decoration: none;
+  
+}
+.buttonss{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px 1px;
+}
+.homelink{
+  color: rgb(255, 126, 75);
+  background-color: rgb(83, 83, 83);
+  border-radius: 5px;
+}
+
 #question {
   height: 100px;
   display: flex;
